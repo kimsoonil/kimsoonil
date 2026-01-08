@@ -53,22 +53,6 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 
-## 📊 GitHub 통계
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kimsoonil&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsoonil&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=kimsoonil&theme=radical&hide_border=true&background=0D1117"/>
-
-</div>
-
 ## 🎯 주요 프로젝트
 
 ### [민원똑똑 (MinwonTalk)](https://github.com/kimsoonil/MinwonTalk)
