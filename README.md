@@ -86,9 +86,26 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimsoonil&theme=radical&hide_border=true&bg_color=0D1117)
 
+## 📝 기술 블로그
+
+개발 경험과 학습 내용을 정리한 기술 블로그입니다. 주요 글들을 소개합니다.
+
+### 🎯 주요 글
+
+- **[2025년 개발자 회고](https://k-soonil.tistory.com/30)** - 테스트 코드 도입, 코드 품질 향상, 팀 리딩 경험 등 2025년 성장 이야기
+- **[구글 스프레드 시트를 활용한 번역 기능](https://k-soonil.tistory.com/29)** - i18next와 Google Spreadsheet를 활용한 다국어 번역 자동화 시스템
+- **[Github Action을 활용한 branch 배포](https://k-soonil.tistory.com/27)** - CI/CD 파이프라인 구축, Docker 빌드 및 Kubernetes 배포 자동화
+- **[이펙티브 타입스크립트](https://k-soonil.tistory.com/28)** - 타입스크립트 베스트 프랙티스 북클럽 스터디 정리
+- **[프론트엔드 코딩컨벤션](https://k-soonil.tistory.com/25)** - ESLint, Prettier를 활용한 일관된 코드 스타일 가이드
+- **[카페24 개발](https://k-soonil.tistory.com/24)** - 카페24 플랫폼을 활용한 쇼핑몰 개발 경험 및 주요 기능 정리
+- **[함께 자라기 - 애자일로 가는 길](https://k-soonil.tistory.com/26)** - 애자일 개발 문화와 팀 성장에 대한 스터디 정리
+
+📚 **전체 글 보기**: [https://k-soonil.tistory.com/](https://k-soonil.tistory.com/)
+
 ## 📫 연락처
 
 - 📧 Email: rlatnsdlf158@naver.com
+- 💼 Portfolio: [https://kimsunil.netlify.app/](https://kimsunil.netlify.app/)
 - 🔗 Github: [https://github.com/kimsoonil](https://github.com/kimsoonil)
 - 📝 Blog: [https://k-soonil.tistory.com/](https://k-soonil.tistory.com/)
 
