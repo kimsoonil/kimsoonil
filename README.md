@@ -55,6 +55,15 @@
 
 ## 🎯 주요 프로젝트
 
+### [포트폴리오 (newPortfolio)](https://github.com/kimsoonil/newPortfolio)
+> 경력직이 된 후 애니메이션을 제거한 심플한 포트폴리오를 신규로 제작
+
+- ⚡ Next.js 16 App Router 기반
+- 🎨 Tailwind CSS 4.0로 구현한 현대적인 디자인
+- 📱 완전 반응형 및 다크 모드 지원
+
+[🌐 데모 보기](https://kimsunil.netlify.app/) | [📦 코드 보기](https://github.com/kimsoonil/newPortfolio)
+
 ### [민원똑똑 (MinwonTalk)](https://github.com/kimsoonil/MinwonTalk)
 > "어떤 서류를 어디서 떼야 하나요?"라는 질문에 AI가 답변하고, 인증부터 발급까지 한 곳에서 끝내는 대화형 민원 창구 구축
 
@@ -72,15 +81,6 @@
 - 💬 간단한 채팅만으로 모든 일상생활 서비스 이용
 
 [🌐 데모 보기](https://hyodosecretary.netlify.app/) | [📦 코드 보기](https://github.com/kimsoonil/hyodoSecretary)
-
-### [포트폴리오 (newPortfolio)](https://github.com/kimsoonil/newPortfolio)
-> 경력직이 된 후 애니메이션을 제거한 심플한 포트폴리오를 신규로 제작
-
-- ⚡ Next.js 16 App Router 기반
-- 🎨 Tailwind CSS 4.0로 구현한 현대적인 디자인
-- 📱 완전 반응형 및 다크 모드 지원
-
-[📦 코드 보기](https://github.com/kimsoonil/newPortfolio)
 
 ## 📈 기여 활동
 
