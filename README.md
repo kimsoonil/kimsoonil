@@ -55,11 +55,17 @@
 
 ## 📊 GitHub 통계
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimsoonil&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsoonil&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D" alt="GitHub Stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsoonil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsoonil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D" alt="Top Languages" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=kimsoonil&theme=radical&hide_border=true&background=0D1117)
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=kimsoonil&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" alt="GitHub Streak" />
+</div>
 
 ## 🎯 주요 프로젝트
 
